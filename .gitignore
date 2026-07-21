@@ -14,9 +14,6 @@ venv/
 # Jupyter Notebooks
 .ipynb_checkpoints/
 
-# Data files (generated CSVs)
-*.csv
-
 # Pickle / joblib models
 *.pkl
 *.joblib
