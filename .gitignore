@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.env
+venv/
+.env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data files (generated CSVs)
+*.csv
+
+# Pickle / joblib models
+*.pkl
+*.joblib
+
+# Visualizations / images
+*.png
+*.jpg
+*.jpeg
+
+# Logs & metadata
+preprocessing_metadata.json
+training_metadata.json
+FOLDER_STRUCTURE_MAP.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
